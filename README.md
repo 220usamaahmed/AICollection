@@ -8,3 +8,6 @@ A collection of notebooks with machine learning algorithms I wrote to learn abou
 3. U-Net
 4. VAE
 5. VGG
+
+### GANs
+1. DCGAN
